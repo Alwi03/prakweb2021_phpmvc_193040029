@@ -8,7 +8,7 @@ class Mahasiswa_model
 
   public function __construct()
   {
-    // contekan 
+    // data source name
     $dsn = 'mysql:host=localhost;dbname=phpmvc';
 
     try {
